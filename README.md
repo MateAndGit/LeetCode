@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MateAndGit/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/MateAndGit/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MateAndGit/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MateAndGit/LeetCode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MateAndGit/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 <!---LeetCode Topics End-->
